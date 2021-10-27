@@ -1,0 +1,8 @@
+Youtube MP3 by Tobsa
+--------------------------
+
+# Interface was created using Pyqt5 designer and this tutorial https://likegeeks.com/es/tutorial-de-pyqt5/
+
+# To convert from '.ui' file to '.py' use this code executing 'cmd' in the same folder: 'pyuic5 youtube_to_mp3_ui.ui -o youtube_to_mp3_ui.py'
+
+# 
