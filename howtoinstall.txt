@@ -5,4 +5,6 @@ Youtube MP3 by Tobsa
 
 # To convert from '.ui' file to '.py' use this code executing 'cmd' in the same folder: 'pyuic5 youtube_to_mp3_ui.ui -o youtube_to_mp3_ui.py'
 
-# 
+# Convert to '.exe' using 'pyinstaller' executing this cmd line: 'pyinstaller --onefile -w --icon=bxl-youtube.ico youtube_to_mp3.py'
+
+# The '.ico' and 'save_folder.txt' files must be in the same folder as the .exe all the time 
